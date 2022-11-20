@@ -19,7 +19,7 @@ Swagger UI was extended to
 incorporate Structured Data in the generated OpenAPI definition documentation using Microdata, the
 retrieval of metadata from Schema.org for each element that has been augmented with semantics and
 its inclusion in the generated documentation, and the association of elements from the OpenAPI
-definition with concepts from the Schema.org vocabulary
+definition with concepts from the Schema.org vocabulary.
 
 More info available at: https://github.com/ioanabirsan/swagger-ui
 
