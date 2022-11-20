@@ -23,3 +23,21 @@ definition with concepts from the Schema.org vocabulary.
 
 More info available at: https://github.com/ioanabirsan/swagger-ui
 
+### Presentation
+Please consult the presentation for more details: https://github.com/ioanabirsan/semantic-web-api-specification/blob/master/Licenta2019BirsanIoana/presentation.pdf
+
+### Demo
+For more details please consult **Chapter 6: Taxi Service** of the thesis: https://github.com/ioanabirsan/semantic-web-api-specification/blob/master/Licenta2019BirsanIoana/thesis.pdf
+
+#### Autocomplete support offered by Swagger Editor for x-same-as extension
+![image](https://user-images.githubusercontent.com/22713689/202901005-b1ccf893-3f63-4e11-9bfc-66d51eb6eb44.png)
+
+#### Display of semantic details in Swagger UI
+![image](https://user-images.githubusercontent.com/22713689/202901084-6a9f2557-ba1b-4705-908a-ea22d0e289b6.png)
+
+#### Structured data for TaxiService item detected by Google Structured Data
+Testing Tool
+![image](https://user-images.githubusercontent.com/22713689/202901136-31dbb0d0-59a7-4011-9367-2fad96fcec62.png)
+
+
+
